@@ -6,7 +6,7 @@
 I am a student at Istanbul Arel University.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperrkaya&layout=compact" alt="shely"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperkayaa&layout=compact" alt="shely"/>
 
 
 ## 🧠 I use
