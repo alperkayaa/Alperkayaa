@@ -1,6 +1,6 @@
 ### Hi there! My name is Alper. I live in Istanbul. 👋
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperkayaa&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=alperkayaa&show_icons=true&theme=tokyonight)
 
 ## ⚡ Schools
 I am a student at Istanbul Arel University.
