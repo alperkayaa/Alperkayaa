@@ -1,12 +1,14 @@
 ### Hi there! My name is Alper. I live in Istanbul. 👋
 
-![Enes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperkayaa&show_icons=true&theme=tokyonight)
+## 🧮 GitHub Stats
+<a href="https://github.com/alperkayaa">
 
-## ⚡ Schools
-I am a student at Istanbul Arel University.
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alperkayaa&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alperkayaa&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alperkayaa&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alperkayaa&theme=tokyonight)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperkayaa&layout=compact" alt="shely"/>
 
 
 ## 🧠 I use
